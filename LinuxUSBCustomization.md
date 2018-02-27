@@ -8,5 +8,5 @@ I *did* go to settings, changed the wallpaper, added an international keyboard
 dock and status bar and ran updates.
 
 That way, every time I start my Linux USB with Persistence, it's always
-**ready to go** and **_the same on any computer_** I use! :-).
+**ready to go** and **_the same on any computer_** I use! :-)
 
