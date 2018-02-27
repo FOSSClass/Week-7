@@ -13,9 +13,9 @@ done
 rm a				# Removing file a.
 
 # Reporting on the run-level.
-echo "The run-level your computer is operation on is $c."
+echo "The run-level your computer is currently operating on is $c."
 
-# The reason for the  lenghty procedure was to record and hold the
+# The reason for the lenghty procedure was to record and hold the
 # run-level value in a variable as opposed to just printing it on the
 # screen. I did NOT know any other way of extracting the run-level
 # value from the report, that the command who -r generates.
